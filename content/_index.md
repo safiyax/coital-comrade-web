@@ -1,3 +1,0 @@
----
-title: "Coital Comrade"
----

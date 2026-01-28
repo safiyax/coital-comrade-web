@@ -1,59 +1,55 @@
 ---
 title: "Privacy Policy"
-date: 2025-01-28
-draft: false
+date: 2026-01-28
 hidemeta: true
-disableShare: true
+showtoc: false
 ---
 
-**Last updated: January 28, 2025**
+## Privacy Policy
 
-## Our Commitment to Your Privacy
+**Effective Date:** January 28, 2026
 
-Coital Comrade is designed with privacy as a core principle. We believe your intimate data belongs to you and only you.
+Coital Comrade is committed to protecting your privacy. This Privacy Policy explains our data practices for the Coital Comrade mobile application.
 
-## Data Collection
+### Data Collection
 
-**Coital Comrade collects no data whatsoever.**
+**We collect no data whatsoever.**
 
-- We do not collect personal information
-- We do not collect usage data
-- We do not collect analytics
-- We do not use tracking technologies
-- We do not use cookies
-- We have no servers that receive your data
+Coital Comrade does not collect, transmit, store, or share any of your personal information or usage data. All information you enter into the app remains exclusively on your device.
 
-## Data Storage
+### Data Storage
 
-All data you enter into Coital Comrade is stored **locally on your device only**. This includes:
+All data you create within Coital Comrade—including partner profiles, encounter logs, notes, and any other information—is stored locally on your device only. This data:
 
-- Partner profiles
-- Encounter logs
-- Activities and notes
-- Settings and preferences
+- Never leaves your device
+- Is not transmitted to any servers
+- Is not backed up to any cloud services by the app
+- Remains under your complete control
 
-Your data never leaves your device unless you explicitly choose to export it.
+### Third-Party Services
 
-## Data Export
+Coital Comrade does not use any third-party analytics, tracking, or advertising services. The app does not contain any code that sends data to external services.
 
-You can export your data at any time as a CSV file. This export is initiated by you and saved to a location of your choosing. We have no access to exported files.
+### Data Export
 
-## Third-Party Services
+You have the ability to export your data as a CSV file at any time. When you choose to export your data, it is saved to your device's local storage. How you choose to share or store that exported file is entirely up to you.
 
-Coital Comrade does not integrate with any third-party services, analytics platforms, or advertising networks.
+### Your Control
 
-## No Account Required
+You have complete control over your data:
 
-Coital Comrade does not require account creation. There is no sign-up, no login, and no cloud synchronization.
+- You can delete all data at any time through the app settings
+- Uninstalling the app will remove all associated data from your device
+- No data recovery is possible once deleted, as we have no copies of your information
 
-## Changes to This Policy
+### Changes to This Policy
 
-If we update this privacy policy, we will post the changes on this page with an updated revision date.
+If we ever change our data practices, we will update this Privacy Policy and notify users through the app. However, our commitment to not collecting any user data is fundamental to Coital Comrade's design and purpose.
 
-## Contact
+### Contact
 
-If you have questions about this privacy policy, please contact us at [me@safiya.sh](mailto:me@safiya.sh).
+If you have any questions about this Privacy Policy, please contact us at [me@safiya.sh](mailto:me@safiya.sh).
 
 ---
 
-**Your data, your device, your business.**
+**Last Updated:** January 28, 2026

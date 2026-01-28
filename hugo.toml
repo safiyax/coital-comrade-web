@@ -16,13 +16,17 @@ theme = "PaperMod"
   hideAuthor = true
   showtoc = false
 
-  [params.homeInfoParams]
-    Title = "Coital Comrade"
-    Content = """
-Your loyal companion for tracking your intimate life. Coital Comrade helps you log partners, encounters, and activities with a playful approach to sexual health awareness.
-
-**Your data, your device, your business.**
-"""
+  [params.profileMode]
+    enabled = true
+    title = "Coital Comrade"
+    subtitle = "Privacy-first intimacy tracker"
+    imageUrl = "/app-icon.png"
+    imageWidth = 120
+    imageHeight = 120
+    buttons = [
+      {name = "Privacy Policy", url = "/privacy/"},
+      {name = "Support", url = "/support/"}
+    ]
 
 [[params.socialIcons]]
   name = "email"

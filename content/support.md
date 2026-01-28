@@ -1,37 +1,34 @@
 ---
 title: "Support"
-date: 2025-01-28
-draft: false
+date: 2026-01-28
 hidemeta: true
-disableShare: true
+showtoc: false
 ---
 
-## Need Help?
+## Support
 
-We're here to help you get the most out of Coital Comrade.
+Need help with Coital Comrade? We're here to assist you.
 
-## Contact Us
+### Contact Us
 
-For questions, feedback, bug reports, or feature requests, please reach out via email:
+For any questions, concerns, or support requests, please reach out to us:
 
-**[me@safiya.sh](mailto:me@safiya.sh)**
+**Email:** [me@safiya.sh](mailto:me@safiya.sh)
 
-We aim to respond to all inquiries as quickly as possible.
+We'll do our best to respond to your inquiry as quickly as possible.
 
-## Frequently Asked Questions
+### Common Topics
 
-### Is my data private?
+Feel free to contact us about:
 
-Yes, completely. All data is stored locally on your device. We have no servers, no accounts, and no way to access your information. See our [Privacy Policy](/privacy/) for details.
+- Technical issues or bugs
+- Feature requests or suggestions
+- Questions about app functionality
+- Privacy and data concerns
+- General feedback
 
-### Can I export my data?
-
-Yes. You can export all your data as a CSV file at any time from within the app.
-
-### I lost my data after deleting the app
-
-Since all data is stored locally on your device, deleting the app will remove all associated data. We recommend exporting your data regularly if you want to keep a backup.
+We value your input and are committed to making Coital Comrade the best it can be.
 
 ---
 
-**Your data, your device, your business.**
+**Your privacy matters.** Remember, all your data stays on your device—we never have access to your personal information.

@@ -1,0 +1,4 @@
+/* Override profile mode image to remove circular clipping */
+.profile img {
+    border-radius: 0 !important;
+}

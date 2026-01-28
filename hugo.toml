@@ -4,6 +4,7 @@ title = "Coital Comrade"
 theme = "PaperMod"
 
 [params]
+  defaultTheme = "auto"
   description = "Your loyal companion for tracking your intimate life"
   author = "Safiya"
   showBreadCrumbs = false
